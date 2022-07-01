@@ -3,7 +3,7 @@ package com.example.demo.Prefix;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Prefix { 
+public class AlternatePrefix { 
 
 	public static String longestPrefix(ArrayList<String> arrayList)
 	{
