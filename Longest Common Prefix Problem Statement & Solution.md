@@ -32,15 +32,15 @@ Constraints:
 	
 # Solutions in JAVA
 ### A. Longest Common Prefix
-[LongestCommonPrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
+[Prefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
 
 ### B. Unit Test Code Of Longest Common Prefix
-[LongestCommonPrefixTest.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/test/java/com/example/demo/Prefix/PrefixTest.java)
+[PrefixTest.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/test/java/com/example/demo/Prefix/PrefixTest.java)
 
 ### C. Alternate Solution Of Longest Common Prefix
-[AlternateLongestCommonPrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/AlternatePrefix.java)
+[AlternatePrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/AlternatePrefix.java)
 
-# Explaination Of [LongestCommonPrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
+# Explaination Of [Prefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
 •	take variable empty String s for returning
 
 •	take variable j as 0 for taking initial character
