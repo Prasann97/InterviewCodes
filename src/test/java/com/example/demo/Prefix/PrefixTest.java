@@ -1,12 +1,13 @@
 package com.example.demo.Prefix;
 
 import static org.testng.Assert.assertEquals;
+
 import java.util.ArrayList;
-import org.springframework.test.context.testng.AbstractTestNGSpringContextTests;
+
 import org.testng.annotations.Test;
 
 
-public class PrefixTest  extends AbstractTestNGSpringContextTests{
+public class PrefixTest{
 
   @Test
   public void prefixTest() {
