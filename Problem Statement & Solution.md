@@ -30,7 +30,7 @@ Constraints:
 	
 	strs[i] consists of only lowercase English letters.
 	
-# Solutions
+# Solutions in JAVA
 ### A. Longest Common Prefix
 [LongestCommonPrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
 
