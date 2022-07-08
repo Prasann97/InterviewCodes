@@ -40,6 +40,10 @@ Constraints:
 ### C. Alternate Solution Of Longest Common Prefix
 [AlternatePrefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/AlternatePrefix.java)
 
+# Solutions in GOLANG
+### A. Longest Common Prefix
+[Prefix.go](https://github.com/Prasann97/InterviewCodes/blob/main/GoLang/Prefix.go)
+
 # Explaination Of [Prefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
 •	take variable empty String s for returning
 
