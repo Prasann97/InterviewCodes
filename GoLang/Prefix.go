@@ -10,11 +10,11 @@ func main() {
 	x[1] = "asdfgpoiu"
 	x[2] = "asdfhh"
 	x[3] = "asdfghjklmnbgfghyj"
-	Prefix(x[:])
+	s1 := Prefix(x[:])
+	fmt.Println(s1)
 }
 
-func Prefix(arr []string) {
-	var s string
+func Prefix(arr []string) (s string) {
 	var j int = 0
 	for true {
 		var isNotMatch bool = false
@@ -40,5 +40,5 @@ func Prefix(arr []string) {
 		j++
 		s += c
 	}
-	fmt.Println(s)
+	return s
 }
