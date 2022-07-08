@@ -26,3 +26,16 @@
   6. Test Code will Get Pass Succesfully.
 
 Link to Download TestNG -> https://testng.org/testng-eclipse-update-site/7.4.0
+
+# How To Run GOLANG Code
+  1. Download Visual Studio Code from here[Click Here.](https://code.visualstudio.com/download)
+  2. Download & Install GOLANG Module form here[Click Here.](https://go.dev/dl/)
+  3. Open VS Code and Create new Project
+  4. Open Terminal in Current Directory & Run Below Command.
+ 
+    go mod init <Current Dir Name>
+
+  5. After Running this command go.mod file gets created
+  6. Then Create a File with Extension ".go"
+  7. Then Copy Paste the Code From Solution 
+  8. Then Run the Code with CTRL+ALT+N.
