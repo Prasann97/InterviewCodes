@@ -17,7 +17,7 @@
   8. In console give any 4 inputs as a String
   9. Will get Expected Output.
 
-# How To Run Test Code
+# How To Run Java Test Code
   1. Create new class file in same package and Give Same Name Which the java Class consist of in the solution.
   2. To run this code need to download testNg software.
   3. To Download TestNg Software go to Help->Install Software->Copy Paste The Link Which Is Given Below In Work With Input Box->Enter->checked testNg checkbox->Finish.
@@ -39,3 +39,12 @@ Link to Download TestNG -> https://testng.org/testng-eclipse-update-site/7.4.0
   6. Then Create a File with Extension ".go"
   7. Then Copy Paste the Code From Solution 
   8. Then Run the Code with CTRL+ALT+N.
+
+# How To Run GOLANG Test Code
+  1. Create new file with name as same name of your Solution and append it with "_test" and save file with ".go" extension.
+  2. Copy Paste solution in your file.
+  3. Run Test Code with Below Command
+
+    go test
+    
+  4. Your Test Case Get Passed Successfully.
