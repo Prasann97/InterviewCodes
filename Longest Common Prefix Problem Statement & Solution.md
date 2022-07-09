@@ -47,6 +47,9 @@ Constraints:
 ### B. Unit Test Code Of Longest Common Prefix
 [Prefix_test.go](https://github.com/Prasann97/InterviewCodes/blob/main/GoLang/Prefix_test.go)
 
+### C. Alternate Solution Of Longest Common Prefix
+[LongestCommonPrefix.go](https://github.com/Prasann97/InterviewCodes/blob/main/GoLang/LongestCommonPrefix.go)
+
 # Explaination Of [Prefix.java](https://github.com/Prasann97/InterviewCodes/blob/main/src/main/java/com/example/demo/Prefix/Prefix.java)
 •	take variable empty String s for returning
 
